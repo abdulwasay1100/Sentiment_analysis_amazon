@@ -7,4 +7,4 @@ LSTM Algorithm: Long Short-Term Memory (LSTM) was the chosen algorithm for this 
 
 Machine Learning Training: The project involved training the LSTM model on the historical dataset to learn the patterns and sentiments expressed in the reviews. This trained model was then used for future predictions.
 
-Predictive Analytics: The project's outcome enables predictive analytics, allowing for real-time or batch processing of new Amazon reviews to automatically categorize them as positive or negative, providing valuable insights for product evaluation and improvement.
+Predictive Analytics: The project's outcome enables predictive analytics, allowing for real-time or batch processing of new reviews to automatically categorize them as positive or negative, providing valuable insights for product evaluation and improvement.
